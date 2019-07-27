@@ -7,3 +7,5 @@ website would display all users streaming from their different perspectives all 
 
 Deprecated site due to the changes to the League of Legends API wrapper I used. Could make it work again, but it was largely just too much
 effort as getting player information manually.
+
+This is one of my first projects using React, so forgive the probably god awful structure. This really needed redux.
